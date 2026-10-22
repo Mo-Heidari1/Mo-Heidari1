@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mo Heidari
 
-<!--
-**Mo-Heidari1/Mo-Heidari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative trader and macro analyst based in London.
+MSc Financial Economics (City, University of London) · BSc Mechanical Engineering.
+Background in equity research (oil, gas and banking) and systematic trading.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Macro Dashboard](https://github.com/Mo-Heidari1/macro-dashboard)**
+Live app: https://mo-macro-dashboard.streamlit.app
+US Treasury curve and ISM Manufacturing signals, with every data point validated
+against official sources (28,000+ yield values checked, 0 mismatches).
+
+## What I work with
+
+- **Python:** pandas, Streamlit, plotly, pytest
+- **Data sources:** FRED, Treasury.gov, ECB SDMX, CFTC Commitments of Traders
+- **Trading systems:** MQL4/MQL5, backtesting, systematic strategy development
+- **Focus:** macro regimes, rates, positioning, carbon and commodity markets
+
+## Contact
+LinkedIn: www.linkedin.com/in/mo-heidari-967801240· 
