@@ -7,7 +7,9 @@ Background in equity research (oil, gas and banking) and systematic trading.
 ## Featured project
 
 **[Macro Dashboard](https://github.com/Mo-Heidari1/macro-dashboard)**
+
 Live app: https://mo-macro-dashboard.streamlit.app
+
 US Treasury curve and ISM Manufacturing signals, with every data point validated
 against official sources (28,000+ yield values checked, 0 mismatches).
 
