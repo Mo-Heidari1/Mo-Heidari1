@@ -1,6 +1,6 @@
 # Mo Heidari
 
-Quantitative trader and macro analyst based in London.
+Systematic trader and macro analyst based in London.
 MSc Financial Economics (City, University of London) · BSc Mechanical Engineering.
 Background in equity research (oil, gas and banking) and systematic trading.
 
