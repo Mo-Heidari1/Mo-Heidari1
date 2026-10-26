@@ -21,5 +21,5 @@ against official sources (28,000+ yield values checked, 0 mismatches).
 - **Focus:** macro regimes, rates, positioning, carbon and commodity markets
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/mo-heidari-967801240)
+[LinkedIn](www.linkedin.com/in/mo-heidari1)
 [Website](https://moheidari.com/)
